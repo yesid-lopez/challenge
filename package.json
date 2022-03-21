@@ -1,7 +1,7 @@
 {
   "name": "challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Please have installed Nodejs https://nodejs.org/es/download/",
   "main": "maths.js",
   "scripts": {
     "test": "jest"
@@ -16,7 +16,11 @@
     "url": "https://github.com/yesid-lopez/challenge/issues"
   },
   "homepage": "https://github.com/yesid-lopez/challenge#readme",
-  "dependencies": {
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "devDependencies": {
     "jest": "^27.5.1"
   }
 }
