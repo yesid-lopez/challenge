@@ -9,7 +9,9 @@ Please have installed Nodejs https://nodejs.org/es/download/
 Note: **Do not forget to clone the repo first.**
 Execute these commands to run the tests.
 
-First intall the dependencies
+Step 1: Before to start your implementation create a branch (checking out from the `feature/power` branch).
+
+Step 2: intall the dependencies
 
 ```commands
 npm i
@@ -22,9 +24,7 @@ npm test
 
 ## Challenge Statement
 
-Before to start your implementation create a branch (checking out from the `feature/power` branch).
-
-First of all, try to run the tests (check the getting started section for more info).
+Try to run the tests (check the getting started section for more info).
 
 <img width="754" alt="Screen Shot 2022-03-17 at 18 11 16" src="https://user-images.githubusercontent.com/35767777/158856238-b2696d58-9dca-46d2-8013-7661bf13d24d.png">
 
@@ -39,5 +39,3 @@ Finally, create a pull request from your branch to main and send the URL to the 
 Have Fun.
 
 Heimat.
-
-
