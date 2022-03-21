@@ -1,5 +1,9 @@
 #  Git Challenge
 
+# Requisitions
+
+Please have installed Nodejs https://nodejs.org/es/download/
+
 ## Getting started
 
 Note: **Do not forget to clone the repo first.**
